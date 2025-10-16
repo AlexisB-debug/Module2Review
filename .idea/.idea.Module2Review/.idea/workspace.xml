@@ -9,10 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1b1efc4d-af95-4298-aefe-973bed3849d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Module2Review/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Module2Review/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module2Review/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Module2Review/Student.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module2Review/obj/Debug/net9.0/Module2Review.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Module2Review/obj/Debug/net9.0/Module2Review.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module2Review/obj/Debug/net9.0/Module2Review.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Module2Review/obj/Debug/net9.0/Module2Review.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module2Review/obj/Debug/net9.0/Module2Review.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Module2Review/obj/Debug/net9.0/Module2Review.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2Review/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Module2Review/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760633537675</updated>
-      <workItem from="1760633539116" duration="3234000" />
+      <workItem from="1760633539116" duration="5435000" />
     </task>
     <servers />
   </component>
