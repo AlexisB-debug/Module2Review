@@ -1,0 +1,4 @@
+C:\Users\Alexi\Repos\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexi\Repos\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.AssemblyInfoInputs.cache
+C:\Users\Alexi\Repos\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.AssemblyInfo.cs
+C:\Users\Alexi\Repos\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.csproj.CoreCompileInputs.cache
