@@ -4,8 +4,7 @@ public class Student
 {
     public string Name { get; set; }
     public int ID { get; set; }
-    public List<double> Grades { get; set; }
-    List<double> grades =new List<double>();
+    public List<double> Grades { get; set; } = new List<double>();
 
     static void AddGrade(double grade)
     {

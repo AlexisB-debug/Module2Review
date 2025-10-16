@@ -5,6 +5,16 @@ class Program
     static void Main(string[] args)
     {
         List<Student> students = new List<Student>();
+        
+        foreach(var student in students)
+        {
+            Console.WriteLine($"Name: {student.Name}\nID: {student.ID}\nGrades:");
+            foreach (var grade in student.Grades)
+            {
+                Console.WriteLine($"{grade}\n");
+            }
+            Console.WriteLine($"Average Grade: {AddGrade(grades)}");
+        }
 
         var student1 = new Student()
         {
