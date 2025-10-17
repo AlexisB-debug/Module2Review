@@ -3,3 +3,13 @@ C:\Users\Alexi\Repos\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.
 C:\Users\Alexi\Repos\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.AssemblyInfo.cs
 C:\Users\Alexi\Repos\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.csproj.CoreCompileInputs.cache
 C:\Users\Alexi\Repos\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.sourcelink.json
+C:\Users\Alexi\Repos\Module2Review\Module2Review\bin\Debug\net9.0\Module2Review.exe
+C:\Users\Alexi\Repos\Module2Review\Module2Review\bin\Debug\net9.0\Module2Review.deps.json
+C:\Users\Alexi\Repos\Module2Review\Module2Review\bin\Debug\net9.0\Module2Review.runtimeconfig.json
+C:\Users\Alexi\Repos\Module2Review\Module2Review\bin\Debug\net9.0\Module2Review.dll
+C:\Users\Alexi\Repos\Module2Review\Module2Review\bin\Debug\net9.0\Module2Review.pdb
+C:\Users\Alexi\Repos\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.dll
+C:\Users\Alexi\Repos\Module2Review\Module2Review\obj\Debug\net9.0\refint\Module2Review.dll
+C:\Users\Alexi\Repos\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.pdb
+C:\Users\Alexi\Repos\Module2Review\Module2Review\obj\Debug\net9.0\Module2Review.genruntimeconfig.cache
+C:\Users\Alexi\Repos\Module2Review\Module2Review\obj\Debug\net9.0\ref\Module2Review.dll

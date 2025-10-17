@@ -2,33 +2,40 @@ namespace Module2Review;
 
 public class Student
 {
-    public string Name { get; set; }
-    public int ID { get; set; }
-    public List<double> Grades { get; set; } = new List<double>();
+    public string Name { get; set; } = "";
+    public int ID { get; set; } = 0;
+    public List<double> Grades { get; set; } = [];
 
-    static void AddGrade(double grade)
+    public static void AddGrade(double grade, Student student)
     {
+        student.Grades.Add(grade);
     }
 
-    static void AddGrade(params double[] grades)
+    public static void AddGrade(Student student, params double[] grades)
     {
-        Grades.AddRange(grades);
+        student.Grades.AddRange(grades);
     }
 
-    static double CalculateAverageGrade()
+    public static double CalculateAverageGrade(Student student)
     {
-        if (Grades.Count == 0)
-        {
-            return 0.0d;
-        }
-        else
-        {
-            double gradeSum = 0.0d;
-            for (int counter = 0; counter <= Grades.Count - 1; counter = counter + 1)
-            {
-                gradeSum = gradeSum + Grades[counter];
-            }
-            double gradeAverage = gradeSum / (Grades.Count - 1);
-        }
+        // if (Grades.Count == 0)
+        // {
+        //     return 0;
+        // }
+        // else
+        // {
+        //     double gradeSum = 0;
+        //     foreach (var grade in Grades)
+        //     {
+        //         gradeSum = gradeSum + grade;
+        //     }
+        //     double gradeAverage = gradeSum / (Grades.Count - 1);
+        //     return gradeAverage;
+        // }
+        
+        // double averageGrade = Grades.Any() ? Grades.Average() : 0;
+        // return averageGrade;
+        
+        return student.Grades.Average();
     }
 }
